@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ryuandi/static/css/main.0a5de1c5.chunk.css",
+    "main.js": "/ryuandi/static/js/main.0b8a3929.chunk.js",
+    "main.js.map": "/ryuandi/static/js/main.0b8a3929.chunk.js.map",
+    "runtime-main.js": "/ryuandi/static/js/runtime-main.366e3555.js",
+    "runtime-main.js.map": "/ryuandi/static/js/runtime-main.366e3555.js.map",
+    "static/js/2.6760420d.chunk.js": "/ryuandi/static/js/2.6760420d.chunk.js",
+    "static/js/2.6760420d.chunk.js.map": "/ryuandi/static/js/2.6760420d.chunk.js.map",
+    "index.html": "/ryuandi/index.html",
+    "precache-manifest.2179474051d49ef8394f9d79be8e2c0b.js": "/ryuandi/precache-manifest.2179474051d49ef8394f9d79be8e2c0b.js",
+    "service-worker.js": "/ryuandi/service-worker.js",
+    "static/css/main.0a5de1c5.chunk.css.map": "/ryuandi/static/css/main.0a5de1c5.chunk.css.map",
+    "static/js/2.6760420d.chunk.js.LICENSE.txt": "/ryuandi/static/js/2.6760420d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.366e3555.js",
+    "static/js/2.6760420d.chunk.js",
+    "static/css/main.0a5de1c5.chunk.css",
+    "static/js/main.0b8a3929.chunk.js"
+  ]
+}
